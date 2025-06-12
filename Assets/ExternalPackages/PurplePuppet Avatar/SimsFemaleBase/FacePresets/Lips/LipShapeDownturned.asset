@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfd784ce7764d48d5b38e2ae8592870a, type: 3}
+  m_Name: LipShapeDownturned
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 21300000, guid: 79aba0b290c471c4ba3d3f818d4e9b15, type: 3}
+  _presetType: {fileID: 11400000, guid: 79c4902e82dca964daed17342ebf80ad, type: 2}
+  b_raceDependent: 0
+  _presets:
+  - name: mouthSize
+    value: 0.5
+  - name: mouthUpperlipSize
+    value: 0.485
+  - name: mouthLowerlipSize
+    value: 0.356
+  - name: mouthCorners
+    value: 0.5
+  - name: mouthPosition
+    value: 0.5
+  - name: mouthCupidbow
+    value: 0.887
+  - name: mouthCupidbowAdjust
+    value: 0.57
+  - name: mouthTeardrop
+    value: 0.58
+  - name: mouthTeardropAdjust
+    value: 0.58
+  - name: mouthCornersVertical
+    value: 0.202
+  - name: mouthPout
+    value: 0.5
+  - name: mouthSize
+    value: 0.5
+  - name: mouthUpperlipSize
+    value: 0.5
+  - name: mouthLowerlipSize
+    value: 0.5
+  - name: mouthCorners
+    value: 0.5
+  - name: mouthPosition
+    value: 0.5
+  - name: mouthCupidbow
+    value: 0.5
+  - name: mouthCupidbowAdjust
+    value: 0.5
+  - name: mouthTeardrop
+    value: 0.5
+  - name: mouthTeardropAdjust
+    value: 0.5
+  - name: mouthCornersVertical
+    value: 0.5
+  - name: mouthPout
+    value: 0.5

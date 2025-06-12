@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51b5f5a8a166140bb25f982e78d57e, type: 3}
+  m_Name: Bubbles
+  m_EditorClassIdentifier: 
+  recipeType: DynamicCharacterAvatar
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet:
+  - slot: Shirts
+    recipe: jacket_M_Medium_Sweater_v2_Kpop_Recipe
+  - slot: Pants
+    recipe: pants_M_Trousers_Jeans_v2_Recipe
+  - slot: Shoes
+    recipe: shoe_Sneakers_v4_Recipe
+  - slot: Hair
+    recipe: hair_Short_Buzzed_v1_ZEPETO_Recipe
+  - slot: Facial Hair
+    recipe: facialhair_Beard_v1_Recipe
+  - slot: Glasses
+    recipe: glasses_Shades_Square_v2_X_Recipe
+  - slot: Jewelry/Necklace
+    recipe: jewelry_Necklace_Medallion_v1_Recipe
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"packedRecipeType":"DynamicCharacterAvatar","name":"MaleIdol","race":"Male
+    Base","dna":[{"dnaType":"DynamicUMADna","dnaTypeHash":1998440142,"packedDna":"{\"bDnaAsset\":{\"instanceID\":26176},\"bDnaAssetName\":\"BodyMaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"weight\",\"value\":132},{\"name\":\"muscle\",\"value\":134},{\"name\":\"gluteSize\",\"value\":128},{\"name\":\"hipSize\",\"value\":128},{\"name\":\"thighThickness\",\"value\":128},{\"name\":\"calfThickness\",\"value\":128},{\"name\":\"bellySize\",\"value\":128},{\"name\":\"neckSize\",\"value\":128},{\"name\":\"waistSize\",\"value\":128},{\"name\":\"trapeziusSize\",\"value\":128},{\"name\":\"shoulderSize\",\"value\":128},{\"name\":\"armThickness\",\"value\":128},{\"name\":\"forearmThickness\",\"value\":128},{\"name\":\"ribcageSize\",\"value\":128},{\"name\":\"chestSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":128},{\"name\":\"height\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1588101293,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20266},\"bDnaAssetName\":\"EyeMaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyeSize\",\"value\":102},{\"name\":\"eyePosition\",\"value\":128},{\"name\":\"eyeWidth\",\"value\":128},{\"name\":\"eyeRotate\",\"value\":151},{\"name\":\"eyeSizeWidth\",\"value\":128},{\"name\":\"eyeLowerlid\",\"value\":165},{\"name\":\"eyeUpperlid\",\"value\":143},{\"name\":\"monolid\",\"value\":128},{\"name\":\"creasedlid\",\"value\":128},{\"name\":\"doublelid\",\"value\":128},{\"name\":\"eyeUpperlidInnerVertical\",\"value\":128},{\"name\":\"eyeUpperlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidMidVertical\",\"value\":128},{\"name\":\"eyeUpperlidMidHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidOuterVertical\",\"value\":128},{\"name\":\"eyeUpperlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidInnerVertical\",\"value\":91},{\"name\":\"eyeLowerlidInnerHorizontal\",\"value\":123},{\"name\":\"eyeLowerlidMidVertical\",\"value\":94},{\"name\":\"eyeLowerlidMidHorizontal\",\"value\":120},{\"name\":\"eyeLowerlidOuterVertical\",\"value\":80},{\"name\":\"eyeLowerlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeInner\",\"value\":128},{\"name\":\"eyeOuter\",\"value\":161},{\"name\":\"eyeSizeLeft\",\"value\":128},{\"name\":\"eyeSizeRight\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":947784845,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20366},\"bDnaAssetName\":\"FaceDnaAsset\",\"bDnaSettings\":[{\"name\":\"cheekSize\",\"value\":128},{\"name\":\"cheekBoneSize\",\"value\":128},{\"name\":\"earSize\",\"value\":150},{\"name\":\"chinLength\",\"value\":128},{\"name\":\"chinHeigth\",\"value\":128},{\"name\":\"chinWidth\",\"value\":151},{\"name\":\"jawLength\",\"value\":117},{\"name\":\"jawSize\",\"value\":128},{\"name\":\"jawWidth\",\"value\":117},{\"name\":\"jawline\",\"value\":103},{\"name\":\"faceWidth\",\"value\":70},{\"name\":\"faceHeigth\",\"value\":189},{\"name\":\"headSize\",\"value\":128},{\"name\":\"earPosition\",\"value\":238}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":965488746,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20404},\"bDnaAssetName\":\"LipsDnaAsset\",\"bDnaSettings\":[{\"name\":\"mouthSize\",\"value\":155},{\"name\":\"mouthUpperlipSize\",\"value\":196},{\"name\":\"mouthLowerlipSize\",\"value\":147},{\"name\":\"mouthCorners\",\"value\":128},{\"name\":\"mouthPosition\",\"value\":97},{\"name\":\"mouthCupidbow\",\"value\":184},{\"name\":\"mouthCupidbowAdjust\",\"value\":182},{\"name\":\"mouthTeardrop\",\"value\":128},{\"name\":\"mouthTeardropAdjust\",\"value\":169},{\"name\":\"mouthCornersVertical\",\"value\":185}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":2140988384,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20342},\"bDnaAssetName\":\"NoseDnaAsset\",\"bDnaSettings\":[{\"name\":\"noseSize\",\"value\":169},{\"name\":\"nosePosition\",\"value\":159},{\"name\":\"noseWidth\",\"value\":173},{\"name\":\"noseLength\",\"value\":89},{\"name\":\"noseTipLength\",\"value\":93},{\"name\":\"noseTipSize\",\"value\":128},{\"name\":\"noseWingWidth\",\"value\":152},{\"name\":\"noseWingPosition\",\"value\":131},{\"name\":\"noseTipRotate\",\"value\":151}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1147519000,"packedDna":"{\"bDnaAsset\":{\"instanceID\":26178},\"bDnaAssetName\":\"EyebrowDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyebrowSize\",\"value\":118},{\"name\":\"eyebrowThickness\",\"value\":148},{\"name\":\"eyebrowRotate\",\"value\":157},{\"name\":\"eyebrowPosition\",\"value\":38},{\"name\":\"eyebrowWidth\",\"value\":128}]}"}],"characterColors":[{"name":"Skin","colors":[72,48,41,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[33,33,33,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[60,15,15,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyebrow","colors":[33,13,7,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"wardrobeSet":[{"slot":"Shirts","recipe":"jacket_M_Medium_Sweater_v2_Kpop_Recipe"},{"slot":"Pants","recipe":"pants_M_Trousers_Jeans_v2_Recipe"},{"slot":"Shoes","recipe":"shoe_Sneakers_v4_Recipe"},{"slot":"Hair","recipe":"hair_Short_Buzzed_v1_ZEPETO_Recipe"},{"slot":"Facial
+    Hair","recipe":"facialhair_Beard_v1_Recipe"},{"slot":"Glasses","recipe":"glasses_Shades_Square_v2_X_Recipe"},{"slot":"Jewelry/Necklace","recipe":"jewelry_Necklace_Medallion_v1_Recipe"}],"raceAnimatorController":""}'

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0188188c253e0c4bb9b46e19fa7312e, type: 3}
+  m_Name: facialhair_Beard_Thick_v1_Recipe
+  m_EditorClassIdentifier: 
+  recipeType: Wardrobe
+  DisplayValue: facialhair_Beard_Thick_v1_Recipe
+  compatibleRaces:
+  - Female Base
+  wardrobeRecipeThumbs:
+  - race: Female Base
+    filename: 
+    thumb: {fileID: 21300000, guid: 717f45f66bb895e4e8c3a33f3d85e41e, type: 3}
+  wardrobeSlot: FacialHair/Beard
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"female_head","scale":100,"copyIdx":-1,"overlays":[{"id":"facialhair_Beard_Thick_v1_Overlay","colorIdx":0,"rect":[26,967,1024,1024]}]}],"colors":[],"fColors":[{"name":"Beard","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":1,"race":"","packedDna":[]}'
+  IncompatibleRecipes: []
+  UserField: 
+  replaces: Nothing

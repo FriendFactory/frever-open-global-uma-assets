@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51b5f5a8a166140bb25f982e78d57e, type: 3}
+  m_Name: DynamicAvatar8
+  m_EditorClassIdentifier: 
+  recipeType: DynamicCharacterAvatar
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  recipeString: '{"packedRecipeType":"DynamicCharacterAvatar","name":"DynamicAvatar1_DCSRecipe","race":"Male
+    Base","dna":[{"dnaType":"DynamicUMADna","dnaTypeHash":1998440142,"packedDna":"{\"bDnaAsset\":{\"instanceID\":6536},\"bDnaAssetName\":\"MaleBase
+    DynamicUMADnaAsset\",\"bDnaSettings\":[{\"name\":\"weight\",\"value\":255},{\"name\":\"muscle\",\"value\":128},{\"name\":\"gluteSize\",\"value\":128},{\"name\":\"hipSize\",\"value\":128},{\"name\":\"thighThickness\",\"value\":128},{\"name\":\"calf
+    Thickness\",\"value\":128},{\"name\":\"belly Size\",\"value\":128},{\"name\":\"neck
+    Size\",\"value\":185},{\"name\":\"waist Size\",\"value\":154},{\"name\":\"trapezius
+    Size\",\"value\":255},{\"name\":\"shoulder Size\",\"value\":154},{\"name\":\"arm
+    Thickness\",\"value\":128},{\"name\":\"forearm Thickness\",\"value\":128},{\"name\":\"nose
+    Size\",\"value\":128},{\"name\":\"nose Position\",\"value\":191},{\"name\":\"nose
+    Width\",\"value\":75},{\"name\":\"nose Length\",\"value\":128},{\"name\":\"nose
+    Tip Length\",\"value\":128},{\"name\":\"nose Tip Size\",\"value\":128},{\"name\":\"nose
+    Wing Width\",\"value\":232},{\"name\":\"nose Wing Position\",\"value\":87},{\"name\":\"nose
+    Tip Rotate\",\"value\":128},{\"name\":\"mouth Size\",\"value\":99},{\"name\":\"mouth
+    Upperlip Size\",\"value\":154},{\"name\":\"mouth Lowerlip Size\",\"value\":128},{\"name\":\"eyebrow
+    Size\",\"value\":128},{\"name\":\"eyebrow Thickness\",\"value\":128},{\"name\":\"eyebrow
+    Position\",\"value\":0},{\"name\":\"cheek Size\",\"value\":128},{\"name\":\"cheekBone
+    Size\",\"value\":128},{\"name\":\"ear Size\",\"value\":128},{\"name\":\"ribcage
+    Size\",\"value\":128},{\"name\":\"chest Size\",\"value\":128},{\"name\":\"pectoralsSize\",\"value\":145},{\"name\":\"chinLength\",\"value\":128},{\"name\":\"chinHeigth\",\"value\":128},{\"name\":\"jawLength\",\"value\":128},{\"name\":\"jawSize\",\"value\":128},{\"name\":\"jawWidth\",\"value\":150},{\"name\":\"jawLineSize\",\"value\":128},{\"name\":\"faceWidth\",\"value\":128},{\"name\":\"faceHeigth\",\"value\":128},{\"name\":\"eyeSize\",\"value\":87},{\"name\":\"eyePosition\",\"value\":128},{\"name\":\"eyeWidth\",\"value\":171},{\"name\":\"eyeRotate\",\"value\":148},{\"name\":\"eyeSizeWidth\",\"value\":148},{\"name\":\"eyeLowerlid\",\"value\":217},{\"name\":\"eyeUpperlid\",\"value\":128},{\"name\":\"monolid\",\"value\":128},{\"name\":\"creasedlid\",\"value\":136},{\"name\":\"doublelid\",\"value\":206},{\"name\":\"eyeUpperlidInnerVertical\",\"value\":128},{\"name\":\"eyeUpperlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidMidVertical\",\"value\":128},{\"name\":\"eyeUpperlidMidHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidOuterVertical\",\"value\":128},{\"name\":\"eyeUpperlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidInnerVertical\",\"value\":128},{\"name\":\"eyeLowerlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidMidVertical\",\"value\":128},{\"name\":\"eyeLowerlidMidHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidOuterVertical\",\"value\":197},{\"name\":\"eyeLowerlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeInner\",\"value\":128},{\"name\":\"eyeOuter\",\"value\":128},{\"name\":\"mouthCorners\",\"value\":70},{\"name\":\"mouthPosition\",\"value\":214},{\"name\":\"mouthCupidbow\",\"value\":212},{\"name\":\"mouthCupidbowAdjust\",\"value\":174},{\"name\":\"mouthTeardrop\",\"value\":128},{\"name\":\"mouthTeardropAdjust\",\"value\":214}]}"}],"characterColors":[{"name":"Skin","colors":[241,233,196,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[90,55,36,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[73,104,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"wardrobeSet":[],"raceAnimatorController":"UMA_APose_Controller"}'

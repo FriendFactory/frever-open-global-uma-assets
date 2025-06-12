@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: SimsFemaleBase UMATextRecipe
+  m_EditorClassIdentifier: 
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"sims_Female_Body_Slot","scale":100,"copyIdx":-1,"overlays":[{"id":"sims_Female_Body_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"sims_Female_Body_Buff_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"sims_Doublelid_Overlay","colorIdx":0,"rect":[771,1148,512,256]},{"id":"sims_Monolid_Overlay","colorIdx":0,"rect":[771,1148,512,256]},{"id":"sims_Mouth_Overlay","colorIdx":5,"rect":[1500,1360,548,274]},{"id":"sims_Female_Underwear_Bra_Overlay","colorIdx":5,"rect":[4,510,1024,512]},{"id":"sims_Female_Underwear_Shorts_Overlay","colorIdx":5,"rect":[4,510,1024,512]},{"id":"sims_Female_Brows_Overlay","colorIdx":3,"rect":[767,1200,512,256]},{"id":"sims_Eye_Overlay","colorIdx":5,"rect":[0,1430,210,105]},{"id":"sims_Iris_Overlay","colorIdx":2,"rect":[60,1462,82,41]},{"id":"sims_Lashes_Overlay","colorIdx":4,"rect":[0,1302,256,128]}]}],"colors":[],"fColors":[{"name":"Skin","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyebrow","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyelashes","colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":5,"race":"Sims
+    Female Base","packedDna":[],"wardrobeSet":[],"packedRecipeType":"Standard"}'

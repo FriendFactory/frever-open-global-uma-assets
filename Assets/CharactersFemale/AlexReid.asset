@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51b5f5a8a166140bb25f982e78d57e, type: 3}
+  m_Name: AlexReid
+  m_EditorClassIdentifier: 
+  recipeType: DynamicCharacterAvatar
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet:
+  - slot: Shirts
+    recipe: shirt_F_Top_Crop_fullsleeve_v1_pink_Recipe
+  - slot: Skirts
+    recipe: skirt_F_Short_Aline_v1_Recipe
+  - slot: Shoes
+    recipe: shoe_Boots_Heel_v1_Recipe
+  - slot: Hair
+    recipe: hair_Tails_Double_v2_Recipe
+  - slot: Socks
+    recipe: sock_KneeHigh_v1_black_Recipe
+  - slot: EyeMakeup/Eyeliner
+    recipe: makeup_Eyeliner_v2_Recipe
+  - slot: LipMakeup/Lipstick
+    recipe: lipmakeup_Lipstick_v5_Recipe
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"packedRecipeType":"DynamicCharacterAvatar","name":"AlexReid","race":"Female
+    Base","dna":[{"dnaType":"DynamicUMADna","dnaTypeHash":965488746,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20358},\"bDnaAssetName\":\"LipsDnaAsset\",\"bDnaSettings\":[{\"name\":\"mouthSize\",\"value\":101},{\"name\":\"mouthUpperlipSize\",\"value\":174},{\"name\":\"mouthLowerlipSize\",\"value\":187},{\"name\":\"mouthCorners\",\"value\":144},{\"name\":\"mouthPosition\",\"value\":46},{\"name\":\"mouthCupidbow\",\"value\":255},{\"name\":\"mouthCupidbowAdjust\",\"value\":153},{\"name\":\"mouthTeardrop\",\"value\":113},{\"name\":\"mouthTeardropAdjust\",\"value\":193},{\"name\":\"mouthCornersVertical\",\"value\":255}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":587454143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":30208},\"bDnaAssetName\":\"BodyFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"weight\",\"value\":136},{\"name\":\"muscle\",\"value\":133},{\"name\":\"gluteSize\",\"value\":128},{\"name\":\"hipSize\",\"value\":128},{\"name\":\"thighThickness\",\"value\":128},{\"name\":\"calfThickness\",\"value\":128},{\"name\":\"bellySize\",\"value\":128},{\"name\":\"neckSize\",\"value\":128},{\"name\":\"waistSize\",\"value\":142},{\"name\":\"trapeziusSize\",\"value\":128},{\"name\":\"shoulderSize\",\"value\":128},{\"name\":\"armThickness\",\"value\":128},{\"name\":\"forearmThickness\",\"value\":128},{\"name\":\"ribcageSize\",\"value\":128},{\"name\":\"chestSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":255},{\"name\":\"height\",\"value\":128},{\"name\":\"test\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1782541532,"packedDna":"{\"bDnaAsset\":{\"instanceID\":30214},\"bDnaAssetName\":\"EyeFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyeSize\",\"value\":121},{\"name\":\"eyePosition\",\"value\":172},{\"name\":\"eyeWidth\",\"value\":161},{\"name\":\"eyeRotate\",\"value\":92},{\"name\":\"eyeSizeWidth\",\"value\":128},{\"name\":\"eyeLowerlid\",\"value\":184},{\"name\":\"eyeUpperlid\",\"value\":183},{\"name\":\"monolid\",\"value\":128},{\"name\":\"creasedlid\",\"value\":128},{\"name\":\"doublelid\",\"value\":128},{\"name\":\"eyeUpperlidInnerVertical\",\"value\":130},{\"name\":\"eyeUpperlidInnerHorizontal\",\"value\":107},{\"name\":\"eyeUpperlidMidVertical\",\"value\":128},{\"name\":\"eyeUpperlidMidHorizontal\",\"value\":84},{\"name\":\"eyeUpperlidOuterVertical\",\"value\":105},{\"name\":\"eyeUpperlidOuterHorizontal\",\"value\":33},{\"name\":\"eyeLowerlidInnerVertical\",\"value\":128},{\"name\":\"eyeLowerlidInnerHorizontal\",\"value\":0},{\"name\":\"eyeLowerlidMidVertical\",\"value\":128},{\"name\":\"eyeLowerlidMidHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidOuterVertical\",\"value\":194},{\"name\":\"eyeLowerlidOuterHorizontal\",\"value\":184},{\"name\":\"eyeInner\",\"value\":115},{\"name\":\"eyeOuter\",\"value\":112},{\"name\":\"eyeSizeLeft\",\"value\":128},{\"name\":\"eyeSizeRight\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":947784845,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20320},\"bDnaAssetName\":\"FaceDnaAsset\",\"bDnaSettings\":[{\"name\":\"cheekSize\",\"value\":105},{\"name\":\"cheekBoneSize\",\"value\":125},{\"name\":\"earSize\",\"value\":128},{\"name\":\"chinLength\",\"value\":139},{\"name\":\"chinHeigth\",\"value\":122},{\"name\":\"chinWidth\",\"value\":54},{\"name\":\"jawLength\",\"value\":112},{\"name\":\"jawSize\",\"value\":128},{\"name\":\"jawWidth\",\"value\":192},{\"name\":\"jawline\",\"value\":36},{\"name\":\"faceWidth\",\"value\":42},{\"name\":\"faceHeigth\",\"value\":128},{\"name\":\"headSize\",\"value\":128},{\"name\":\"earPosition\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":2140988384,"packedDna":"{\"bDnaAsset\":{\"instanceID\":20296},\"bDnaAssetName\":\"NoseDnaAsset\",\"bDnaSettings\":[{\"name\":\"noseSize\",\"value\":128},{\"name\":\"nosePosition\",\"value\":122},{\"name\":\"noseWidth\",\"value\":128},{\"name\":\"noseLength\",\"value\":128},{\"name\":\"noseTipLength\",\"value\":112},{\"name\":\"noseTipSize\",\"value\":255},{\"name\":\"noseWingWidth\",\"value\":255},{\"name\":\"noseWingPosition\",\"value\":163},{\"name\":\"noseTipRotate\",\"value\":168}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1147519000,"packedDna":"{\"bDnaAsset\":{\"instanceID\":30212},\"bDnaAssetName\":\"EyebrowDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyebrowSize\",\"value\":110},{\"name\":\"eyebrowThickness\",\"value\":0},{\"name\":\"eyebrowRotate\",\"value\":226},{\"name\":\"eyebrowPosition\",\"value\":20},{\"name\":\"eyebrowWidth\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":296061143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":30216},\"bDnaAssetName\":\"EyelashesFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyelashSize\",\"value\":177}]}"}],"characterColors":[{"name":"Skin","colors":[176,137,105,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[45,38,52,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[219,123,30,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyebrow","colors":[69,64,60,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyeliner","colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Lipstick","colors":[217,64,92,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"wardrobeSet":[{"slot":"Shirts","recipe":"shirt_F_Top_Crop_fullsleeve_v1_pink_Recipe"},{"slot":"Skirts","recipe":"skirt_F_Short_Aline_v1_Recipe"},{"slot":"Shoes","recipe":"shoe_Boots_Heel_v1_Recipe"},{"slot":"Hair","recipe":"hair_Tails_Double_v2_Recipe"},{"slot":"Socks","recipe":"sock_KneeHigh_v1_black_Recipe"},{"slot":"EyeMakeup/Eyeliner","recipe":"makeup_Eyeliner_v2_Recipe"},{"slot":"LipMakeup/Lipstick","recipe":"lipmakeup_Lipstick_v5_Recipe"}],"raceAnimatorController":""}'

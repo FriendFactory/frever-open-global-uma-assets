@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: Jingning
+  m_EditorClassIdentifier: 
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet:
+  - slot: Hair
+    recipe: hair_Medium_Wavy_v3_Recipe
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"female_body","scale":100,"copyIdx":-1,"overlays":[{"id":"female_body_base_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_body_buff_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_body_chubby_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_body_lithe_Overlay","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"female_head","scale":100,"copyIdx":-1,"overlays":[{"id":"female_head_base_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_head_buff_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_head_chubby_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_head_lithe_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_head_doublelid_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"female_head_monolid_Overlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"shared_mouth_Overlay","colorIdx":4,"rect":[0,0,2048,2048]}]},{"id":"female_eyes","scale":100,"copyIdx":-1,"overlays":[{"id":"shared_eyes_base_Overlay","colorIdx":4,"rect":[0,0,0,0]},{"id":"shared_Iris_base_Overlay","colorIdx":2,"rect":[170,170,176,176]}]},{"id":"female_brows","scale":100,"copyIdx":-1,"overlays":[{"id":"shared_lashbrow_base_Overlay","colorIdx":3,"rect":[0,0,0,0]}]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"female_lashes","scale":100,"copyIdx":-1,"overlays":[{"id":"shared_lashbrow_base_v2_Overlay","colorIdx":1,"rect":[0,0,0,0]}]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]}],"colors":[],"fColors":[{"name":"Skin","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyebrow","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":4,"race":"Female
+    Base","packedDna":[],"wardrobeSet":[{"slot":"Hair","recipe":"hair_Medium_Wavy_v3_Recipe"}],"packedRecipeType":"Standard"}'

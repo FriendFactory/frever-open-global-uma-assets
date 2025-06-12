@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1459277796225044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4061240312067400}
+  - component: {fileID: 114416574945827136}
+  m_Layer: 0
+  m_Name: PhysicsStandardSlotPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4061240312067400
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1459277796225044}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114416574945827136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1459277796225044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b79b22c90bc7dd441899ab6522cfd2b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ragdollLayer: 8
+  playerLayer: 9
+  simplePlayerCollider: 1
+  enableColliderTriggers: 0
+  UpdateTransformAfterRagdoll: 1
+  PhysicsElements:
+  - {fileID: 11400000, guid: 5c5b5b59e8ba363488f64631c581da02, type: 2}
+  - {fileID: 11400000, guid: 548e17de9ee2edb469093d2ebd77c3b9, type: 2}
+  - {fileID: 11400000, guid: a3cf9c178b1f79145bec13ba3a449e16, type: 2}
+  - {fileID: 11400000, guid: ca3cf56a89d6b264f9b8f64973fbbb82, type: 2}
+  - {fileID: 11400000, guid: 70debde318e2d084cb2104725432c85e, type: 2}
+  - {fileID: 11400000, guid: 7ae0ee3d3c865c84b99799bff509f330, type: 2}
+  - {fileID: 11400000, guid: 0d2d21321d4688d429dee7a422292e90, type: 2}
+  - {fileID: 11400000, guid: 8fb7171e393f2434cb20578c17e90798, type: 2}
+  - {fileID: 11400000, guid: f627662406c57a74ab6b9830ffa40373, type: 2}
+  - {fileID: 11400000, guid: faab60ed9de80fc42a68b4b9346f2edc, type: 2}
+  - {fileID: 11400000, guid: 2543196bef74a9946af86103647d4737, type: 2}

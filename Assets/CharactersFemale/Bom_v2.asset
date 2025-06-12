@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51b5f5a8a166140bb25f982e78d57e, type: 3}
+  m_Name: Bom_v2
+  m_EditorClassIdentifier: 
+  recipeType: DynamicCharacterAvatar
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet:
+  - slot: Hair
+    recipe: hair_Medium_Straight_v4_Recipe
+  - slot: Shirts
+    recipe: shirt_F_Top_Crop_halfsleeve_v2_Recipe
+  - slot: Shoes
+    recipe: shoe_Sneakers_v16_Recipe
+  - slot: Skirts
+    recipe: skirt_Short_Tight_v1_Recipe
+  - slot: Pants
+    recipe: pants_F_Trousers_Sweat_v2_Recipe
+  - slot: Socks
+    recipe: sock_KneeHigh_Animal_v1_rabbit_Recipe
+  - slot: Headwear/Hats
+    recipe: headwear_Hat_Bucket_v1_black_Recipe
+  - slot: EyeMakeup/Eyeliner
+    recipe: makeup_Eyeliner_v3_Recipe
+  - slot: EyeMakeup/Eyeshadow
+    recipe: makeup_Eyeshadow_v1_Recipe
+  - slot: EyeMakeup/Lashes
+    recipe: lashes_CutOut_v1_Recipe
+  - slot: LipMakeup/Lipstick
+    recipe: lipmakeup_Lipstick_v3_Recipe
+  - slot: Jewelry/Necklace
+    recipe: jewelry_Necklace_Chains_v2_Recipe
+  - slot: Jewelry/Bracelet
+    recipe: jewelry_Bracelet_Chain_v1_Recipe
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"packedRecipeType":"DynamicCharacterAvatar","name":"Bom_v2","race":"Female
+    Base","dna":[{"dnaType":"DynamicUMADna","dnaTypeHash":965488746,"packedDna":"{\"bDnaAsset\":{\"instanceID\":21500},\"bDnaAssetName\":\"LipsDnaAsset\",\"bDnaSettings\":[{\"name\":\"mouthSize\",\"value\":128},{\"name\":\"mouthUpperlipSize\",\"value\":169},{\"name\":\"mouthLowerlipSize\",\"value\":97},{\"name\":\"mouthCorners\",\"value\":133},{\"name\":\"mouthPosition\",\"value\":128},{\"name\":\"mouthCupidbow\",\"value\":161},{\"name\":\"mouthCupidbowAdjust\",\"value\":97},{\"name\":\"mouthTeardrop\",\"value\":166},{\"name\":\"mouthTeardropAdjust\",\"value\":159},{\"name\":\"mouthCornersVertical\",\"value\":255}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":587454143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":32988},\"bDnaAssetName\":\"BodyFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"weight\",\"value\":128},{\"name\":\"muscle\",\"value\":128},{\"name\":\"gluteSize\",\"value\":128},{\"name\":\"hipSize\",\"value\":128},{\"name\":\"thighThickness\",\"value\":128},{\"name\":\"calfThickness\",\"value\":128},{\"name\":\"bellySize\",\"value\":128},{\"name\":\"neckSize\",\"value\":128},{\"name\":\"waistSize\",\"value\":128},{\"name\":\"trapeziusSize\",\"value\":128},{\"name\":\"shoulderSize\",\"value\":128},{\"name\":\"armThickness\",\"value\":128},{\"name\":\"forearmThickness\",\"value\":128},{\"name\":\"ribcageSize\",\"value\":128},{\"name\":\"chestSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":128},{\"name\":\"height\",\"value\":128},{\"name\":\"test\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1782541532,"packedDna":"{\"bDnaAsset\":{\"instanceID\":32994},\"bDnaAssetName\":\"EyeFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyeSize\",\"value\":128},{\"name\":\"eyePosition\",\"value\":128},{\"name\":\"eyeWidth\",\"value\":182},{\"name\":\"eyeRotate\",\"value\":128},{\"name\":\"eyeSizeWidth\",\"value\":128},{\"name\":\"eyeLowerlid\",\"value\":186},{\"name\":\"eyeUpperlid\",\"value\":204},{\"name\":\"monolid\",\"value\":51},{\"name\":\"creasedlid\",\"value\":178},{\"name\":\"doublelid\",\"value\":107},{\"name\":\"eyeUpperlidInnerVertical\",\"value\":166},{\"name\":\"eyeUpperlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidMidVertical\",\"value\":145},{\"name\":\"eyeUpperlidMidHorizontal\",\"value\":115},{\"name\":\"eyeUpperlidOuterVertical\",\"value\":178},{\"name\":\"eyeUpperlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidInnerVertical\",\"value\":140},{\"name\":\"eyeLowerlidInnerHorizontal\",\"value\":102},{\"name\":\"eyeLowerlidMidVertical\",\"value\":128},{\"name\":\"eyeLowerlidMidHorizontal\",\"value\":115},{\"name\":\"eyeLowerlidOuterVertical\",\"value\":89},{\"name\":\"eyeLowerlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeInner\",\"value\":51},{\"name\":\"eyeOuter\",\"value\":212},{\"name\":\"eyeSizeLeft\",\"value\":128},{\"name\":\"eyeSizeRight\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":947784845,"packedDna":"{\"bDnaAsset\":{\"instanceID\":21462},\"bDnaAssetName\":\"FaceDnaAsset\",\"bDnaSettings\":[{\"name\":\"cheekSize\",\"value\":153},{\"name\":\"cheekBoneSize\",\"value\":0},{\"name\":\"earSize\",\"value\":128},{\"name\":\"chinLength\",\"value\":128},{\"name\":\"chinHeigth\",\"value\":128},{\"name\":\"chinWidth\",\"value\":128},{\"name\":\"jawLength\",\"value\":128},{\"name\":\"jawSize\",\"value\":128},{\"name\":\"jawWidth\",\"value\":128},{\"name\":\"jawline\",\"value\":115},{\"name\":\"faceWidth\",\"value\":0},{\"name\":\"faceHeigth\",\"value\":133},{\"name\":\"headSize\",\"value\":128},{\"name\":\"earPosition\",\"value\":224}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":2140988384,"packedDna":"{\"bDnaAsset\":{\"instanceID\":21438},\"bDnaAssetName\":\"NoseDnaAsset\",\"bDnaSettings\":[{\"name\":\"noseSize\",\"value\":128},{\"name\":\"nosePosition\",\"value\":166},{\"name\":\"noseWidth\",\"value\":140},{\"name\":\"noseLength\",\"value\":128},{\"name\":\"noseTipLength\",\"value\":128},{\"name\":\"noseTipSize\",\"value\":128},{\"name\":\"noseWingWidth\",\"value\":153},{\"name\":\"noseWingPosition\",\"value\":128},{\"name\":\"noseTipRotate\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1147519000,"packedDna":"{\"bDnaAsset\":{\"instanceID\":32992},\"bDnaAssetName\":\"EyebrowDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyebrowSize\",\"value\":128},{\"name\":\"eyebrowThickness\",\"value\":102},{\"name\":\"eyebrowRotate\",\"value\":166},{\"name\":\"eyebrowPosition\",\"value\":13},{\"name\":\"eyebrowWidth\",\"value\":120}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":296061143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":32996},\"bDnaAssetName\":\"EyelashesFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyelashSize\",\"value\":255}]}"}],"characterColors":[{"name":"Skin","colors":[250,221,206,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[0,139,182,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[252,188,44,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyebrow","colors":[0,176,230,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyeshadow","colors":[255,212,78,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyeliner","colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyelashes","colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Lipstick","colors":[206,117,66,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"
+    Eyeliner A2","colors":[105,206,46,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"wardrobeSet":[{"slot":"Hair","recipe":"hair_Medium_Straight_v4_Recipe"},{"slot":"Shirts","recipe":"shirt_F_Top_Crop_halfsleeve_v2_Recipe"},{"slot":"Shoes","recipe":"shoe_Sneakers_v16_Recipe"},{"slot":"Skirts","recipe":"skirt_Short_Tight_v1_Recipe"},{"slot":"Pants","recipe":"pants_F_Trousers_Sweat_v2_Recipe"},{"slot":"Socks","recipe":"sock_KneeHigh_Animal_v1_rabbit_Recipe"},{"slot":"Headwear/Hats","recipe":"headwear_Hat_Bucket_v1_black_Recipe"},{"slot":"EyeMakeup/Eyeliner","recipe":"makeup_Eyeliner_v3_Recipe"},{"slot":"EyeMakeup/Eyeshadow","recipe":"makeup_Eyeshadow_v1_Recipe"},{"slot":"EyeMakeup/Lashes","recipe":"lashes_CutOut_v1_Recipe"},{"slot":"LipMakeup/Lipstick","recipe":"lipmakeup_Lipstick_v3_Recipe"},{"slot":"Jewelry/Necklace","recipe":"jewelry_Necklace_Chains_v2_Recipe"},{"slot":"Jewelry/Bracelet","recipe":"jewelry_Bracelet_Chain_v1_Recipe"}],"raceAnimatorController":""}'

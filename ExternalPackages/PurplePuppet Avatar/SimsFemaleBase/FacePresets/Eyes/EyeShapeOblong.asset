@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfd784ce7764d48d5b38e2ae8592870a, type: 3}
+  m_Name: EyeShapeOblong
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 21300000, guid: 8063050a249eef441beb8cbbd04c086c, type: 3}
+  _presetType: {fileID: 11400000, guid: e898203dc8cbb9a4394359fdda9bbec5, type: 2}
+  b_raceDependent: 0
+  _presets:
+  - name: eyeSize
+    value: 0.5
+  - name: eyePosition
+    value: 0.5
+  - name: eyeWidth
+    value: 0.5
+  - name: eyeRotate
+    value: 0.5
+  - name: eyeSizeWidth
+    value: 0.5
+  - name: eyeLowerlid
+    value: 0.5
+  - name: eyeUpperlid
+    value: 0.5
+  - name: monolid
+    value: 0.5
+  - name: creasedlid
+    value: 0.5
+  - name: doublelid
+    value: 0.5
+  - name: eyeUpperlidInnerVertical
+    value: 0.5
+  - name: eyeUpperlidInnerHorizontal
+    value: 0.5
+  - name: eyeUpperlidMidVertical
+    value: 0.5
+  - name: eyeUpperlidMidHorizontal
+    value: 0.5
+  - name: eyeUpperlidOuterVertical
+    value: 0.5
+  - name: eyeUpperlidOuterHorizontal
+    value: 0.5
+  - name: eyeLowerlidInnerVertical
+    value: 0.5
+  - name: eyeLowerlidInnerHorizontal
+    value: 0.5
+  - name: eyeLowerlidMidVertical
+    value: 0.5
+  - name: eyeLowerlidMidHorizontal
+    value: 0.5
+  - name: eyeLowerlidOuterVertical
+    value: 0.5
+  - name: eyeLowerlidOuterHorizontal
+    value: 0.5
+  - name: eyeInner
+    value: 0.5
+  - name: eyeOuter
+    value: 0.5
+  - name: eyeSizeLeft
+    value: 0.5
+  - name: eyeSizeRight
+    value: 0.5
+  - name: eyeSize
+    value: 0.5
+  - name: eyePosition
+    value: 0.5
+  - name: eyeWidth
+    value: 0.5
+  - name: eyeRotate
+    value: 0.5
+  - name: eyeSizeWidth
+    value: 0.5
+  - name: eyeLowerlid
+    value: 0.5
+  - name: eyeUpperlid
+    value: 0.5
+  - name: monolid
+    value: 0.5
+  - name: creasedlid
+    value: 0.5
+  - name: doublelid
+    value: 0.5
+  - name: eyeUpperlidInnerVertical
+    value: 0.5
+  - name: eyeUpperlidInnerHorizontal
+    value: 0.5
+  - name: eyeUpperlidMidVertical
+    value: 0.5
+  - name: eyeUpperlidMidHorizontal
+    value: 0.5
+  - name: eyeUpperlidOuterVertical
+    value: 0.5
+  - name: eyeUpperlidOuterHorizontal
+    value: 0.5
+  - name: eyeLowerlidInnerVertical
+    value: 0.5
+  - name: eyeLowerlidInnerHorizontal
+    value: 0.5
+  - name: eyeLowerlidMidVertical
+    value: 0.5
+  - name: eyeLowerlidMidHorizontal
+    value: 0.5
+  - name: eyeLowerlidOuterVertical
+    value: 0.5
+  - name: eyeLowerlidOuterHorizontal
+    value: 0.5
+  - name: eyeInner
+    value: 0.5
+  - name: eyeOuter
+    value: 0.5
+  - name: eyeSizeLeft
+    value: 0.5
+  - name: eyeSizeRight
+    value: 0.5

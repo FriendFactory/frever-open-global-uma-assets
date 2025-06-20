@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: SimsMaleBase RaceData
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: 24f9baf974ceebf4486da883af24d15d, type: 2}
+  wardrobeSlots:
+  - None
+  - Skins
+  - Face/Wrinkles
+  - Face/Other
+  - Face/Beautymark
+  - Body/Tattoo
+  - Face/Scars
+  - Face/Tattoo
+  - Face/Freckles
+  - Eyebrows
+  - Hair
+  - Outfit
+  - Shirts
+  - Skirts
+  - Socks
+  - Pants
+  - Dress
+  - Shoes
+  - Ears
+  - Teeth
+  - Eyes
+  - Glasses
+  - Accessory/Scarf
+  - Accessory/Purse
+  - Accessory/Glove
+  - Accessory/Watch
+  - Accessory/Wings
+  - Accessory/Tail
+  - Accessory/Other
+  - Jewelry/Earrings
+  - Jewelry/Necklace
+  - Jewelry/Bracelet
+  - Jewelry/Rings
+  - Jewelry/Piercing
+  - Jewelry/Anklet
+  - Body/Limbs
+  - Body/Nails
+  - Headwear/Hats
+  - Headwear/Headband
+  - Headwear/Masks
+  - Headwear/Other
+  - FaceMakeup/FacePaint
+  - FaceMakeup/Contour
+  - FaceMakeup/Blush
+  - FaceMakeup/Highlight
+  - LipMakeup/Lipstick
+  - LipMakeup/Gloss
+  - FacialHair/Beard
+  - FacialHair/Mustache
+  - FacialHair/Patch
+  - EyeMakeup/Eyeshadow
+  - EyeMakeup/Eyeliner
+  - EyeMakeup/Lashes
+  - FaceMakeup/Deco
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData:
+    - ccRace: Sims Female Base
+      ccSettings:
+      - raceSlot: Sims_Male_Body_Slot
+        compatibleRaceSlot: sims_Female_Body_Slot
+        overlaysMatch: 1
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs: []
+}
+  raceName: Sims Male Base
+  _dnaConverterListLegacy: []
+  _dnaConverterList:
+    _converters:
+    - {fileID: 11400000, guid: 5cb638bcfdece5648b3bdc3d735385ab, type: 2}
+    - {fileID: 11400000, guid: ea0c83bda353dd54981f3fafb2710e9f, type: 2}
+    - {fileID: 11400000, guid: 39294f27e4624b24f8efa54435df8dbd, type: 2}
+    - {fileID: 11400000, guid: 87d49a6107e868c47b5620804c940820, type: 2}
+    - {fileID: 11400000, guid: d246c00a9da513a49be1bfb0412cd8dd, type: 2}
+    - {fileID: 11400000, guid: 513fbef45e1d30246afdac8d3d2946b1, type: 2}
+  TPose: {fileID: 11400000, guid: f7b34d387f32b2e46bc01ac1066f8999, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 0}
+  dnaRanges: []
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

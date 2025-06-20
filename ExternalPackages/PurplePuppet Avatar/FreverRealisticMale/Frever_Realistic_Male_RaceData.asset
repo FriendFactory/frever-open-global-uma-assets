@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: Frever_Realistic_Male_RaceData
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: 75bf09e30a143df46917b1e7153ecda8, type: 2}
+  wardrobeSlots:
+  - None
+  - Skins
+  - Face/Wrinkles
+  - Face/Other
+  - Face/Beautymark
+  - Body/Tattoo
+  - Face/Scars
+  - Face/Tattoo
+  - Face/Freckles
+  - FaceMakeup/FacePaint
+  - Eyebrows
+  - Hair
+  - Outfit
+  - Shirts
+  - Skirts
+  - Socks
+  - Pants
+  - Dress
+  - Shoes
+  - Ears
+  - Teeth
+  - Eyes
+  - Glasses
+  - Accessory/Scarf
+  - Accessory/Purse
+  - Accessory/Glove
+  - Accessory/Watch
+  - Accessory/Other
+  - EyeMakeup/Lashes
+  - Jewelry/Earrings
+  - Jewelry/Necklace
+  - Jewelry/Bracelet
+  - Jewelry/Rings
+  - Jewelry/Piercing
+  - Jewelry/Anklet
+  - Body/Limbs
+  - Body/Nails
+  - Headwear/Hats
+  - Headwear/Headband
+  - Headwear/Masks
+  - Headwear/Other
+  - FaceMakeup/Contour
+  - FaceMakeup/Blush
+  - FaceMakeup/Highlight
+  - LipMakeup/Lipstick
+  - LipMakeup/Gloss
+  - FacialHair/Beard
+  - FacialHair/Mustache
+  - FacialHair/Patch
+  - EyeMakeup/Eyeshadow
+  - EyeMakeup/Eyeliner
+  - FaceMakeup/Deco
+  - Accessory/Wings
+  - Accessory/Tail
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData:
+    - ccRace: Realistic Female
+      ccSettings:
+      - raceSlot: Frever_Realistic_Male_Body_Slot
+        compatibleRaceSlot: Frever_Realistic_Female_Body_Slot
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Head_Slot
+        compatibleRaceSlot: Frever_Realistic_Female_Head_Slot
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyebrows_Slot
+        compatibleRaceSlot: Frever_Realistic_Female_Eyebrows_Slot
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyes_Slot
+        compatibleRaceSlot: Frever_Realistic_Female_Eyes_Slot
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Lashes_Slot
+        compatibleRaceSlot: Frever_Realistic_Female_Lashes_Slot
+        overlaysMatch: 1
+    - ccRace: Female Base
+      ccSettings:
+      - raceSlot: Frever_Realistic_Male_Body_Slot
+        compatibleRaceSlot: female_body
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Head_Slot
+        compatibleRaceSlot: female_head
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyebrows_Slot
+        compatibleRaceSlot: female_brows
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyes_Slot
+        compatibleRaceSlot: female_eyes
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Lashes_Slot
+        compatibleRaceSlot: female_lashes
+        overlaysMatch: 1
+    - ccRace: Male Base
+      ccSettings:
+      - raceSlot: Frever_Realistic_Male_Body_Slot
+        compatibleRaceSlot: male_body
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Head_Slot
+        compatibleRaceSlot: male_head
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyebrows_Slot
+        compatibleRaceSlot: male_brows
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Eyes_Slot
+        compatibleRaceSlot: male_eyes
+        overlaysMatch: 1
+      - raceSlot: Frever_Realistic_Male_Lashes_Slot
+        compatibleRaceSlot: male_lashes
+        overlaysMatch: 1
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs:
+    - thumbIsFor: Facial Hair
+      thumb: {fileID: 21300000, guid: bbc36ce93e852f246b2f09d9892bc267, type: 3}
+    - thumbIsFor: Outfit
+      thumb: {fileID: 21300000, guid: 313cbd484ae90a0458baf227dbd9a983, type: 3}
+    - thumbIsFor: Headgear
+      thumb: {fileID: 21300000, guid: 3366eb1475973764cbbbd76a8a7ef9b1, type: 3}
+    - thumbIsFor: Shirts
+      thumb: {fileID: 21300000, guid: 038a4ab55c0d31c49b5b82b012e73052, type: 3}
+    - thumbIsFor: Skirts
+      thumb: {fileID: 21300000, guid: e47df6e751d368749bbf9d3714dccf9f, type: 3}
+    - thumbIsFor: Pants
+      thumb: {fileID: 21300000, guid: cafa8a6fc5c8aa3469a5c5f1dda6a845, type: 3}
+    - thumbIsFor: Dress
+      thumb: {fileID: 21300000, guid: c898f8dae29e8ee4091ef4195692aa8d, type: 3}
+    - thumbIsFor: Shoes
+      thumb: {fileID: 21300000, guid: 6dbef9217c87df74caeb44b6d7eae52f, type: 3}
+    - thumbIsFor: Jewelry
+      thumb: {fileID: 21300000, guid: 3997160e5458c284a8fd17a9260b7256, type: 3}
+    - thumbIsFor: Makeup
+      thumb: {fileID: 21300000, guid: 26b8fd6e571bf1f4c9ff2aea057c9751, type: 3}
+    - thumbIsFor: Tattoo
+      thumb: {fileID: 21300000, guid: 75e838865657e9d4cab0c634fb5be77c, type: 3}
+    - thumbIsFor: Eyebrows
+      thumb: {fileID: 0}
+    - thumbIsFor: Hair
+      thumb: {fileID: 21300000, guid: b4d4628f993b1cd42b7abeb8c4affc83, type: 3}
+}
+  raceName: Realistic Male
+  _dnaConverterListLegacy: []
+  _dnaConverterList:
+    _converters:
+    - {fileID: 11400000, guid: ab088849d65622f41b887ffdfe174eee, type: 2}
+    - {fileID: 11400000, guid: f7a04aa9130f75846989cfa7dadaecdb, type: 2}
+    - {fileID: 11400000, guid: 81ff4ab0b0e631e47bf152eee4630e1a, type: 2}
+    - {fileID: 11400000, guid: 73449c4d33a6c7146a0d4545520a2aee, type: 2}
+    - {fileID: 11400000, guid: fdd9ac92483084841825070a146e9af8, type: 2}
+    - {fileID: 11400000, guid: a10bfca343e3231408a39894e100a908, type: 2}
+    - {fileID: 11400000, guid: cd1cd9dbb34a0434c82fc79f07058a07, type: 2}
+  TPose: {fileID: 11400000, guid: add5980b00b32de47bc88a1226ffe627, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 0}
+  dnaRanges: []
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

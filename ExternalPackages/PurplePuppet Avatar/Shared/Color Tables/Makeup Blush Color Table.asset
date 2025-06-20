@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534edf300d8929243a0d291e413e2f0b, type: 3}
+  m_Name: Makeup Blush Color Table
+  m_EditorClassIdentifier: 
+  channelCount: 1
+  sharedColorName: Blush
+  colors:
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.86666673, b: 0.9686275, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.78823537, b: 0.9568628, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.6745098, b: 0.9333334, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.54901963, b: 0.909804, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.41176474, b: 0.882353, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9607844, g: 0.86666673, b: 1, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.92549026, g: 0.75294125, b: 1, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.89019614, g: 0.6313726, b: 1, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.854902, g: 0.5176471, b: 1, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8196079, g: 0.4039216, b: 1, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.77647066, b: 0.78823537, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.6784314, b: 0.69411767, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.56078434, b: 0.5803922, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.42352945, b: 0.45098042, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.30980393, b: 0.34117648, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.93725497, g: 0.74509805, b: 0.7843138, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9333334, g: 0.65882355, b: 0.7137255, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9058824, g: 0.4784314, b: 0.5568628, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8745099, g: 0.34117648, b: 0.4431373, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.7960785, g: 0.28627452, b: 0.38431376, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.78823537, b: 0.8117648, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.94117653, g: 0.6431373, b: 0.69411767, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8862746, g: 0.50980395, b: 0.5803922, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.7960785, g: 0.4039216, b: 0.4784314, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.67058825, g: 0.34117648, b: 0.4039216, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9725491, g: 0.73333335, b: 0.73333335, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9450981, g: 0.57254905, b: 0.57254905, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9294118, g: 0.454902, b: 0.454902, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9215687, g: 0.36862746, b: 0.36862746, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8431373, g: 0.28627452, b: 0.28627452, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.8196079, b: 0.90196085, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.70980394, b: 0.83921576, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.57254905, b: 0.76470596, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.97647065, g: 0.41960788, b: 0.67058825, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9490197, g: 0.29803923, b: 0.5921569, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.7803922, b: 0.73333335, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.67058825, b: 0.6039216, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.54509807, b: 0.45098042, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.4784314, b: 0.36862746, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.38431376, b: 0.25490198, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.80392164, b: 0.6627451, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.7294118, b: 0.5372549, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.6313726, b: 0.37254903, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.54509807, b: 0.22352943, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.47058827, b: 0.098039225, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 1, g: 0.7843138, b: 0.75294125, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.90196085, g: 0.56078434, b: 0.52156866, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.80392164, g: 0.44705886, b: 0.40784317, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.6666667, g: 0.34117648, b: 0.3019608, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.5254902, g: 0.27058825, b: 0.2392157, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9960785, g: 0.427451, b: 0.86666673, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.96470594, g: 0.32156864, b: 0.8196079, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9490197, g: 0.27058825, b: 0.7960785, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8235295, g: 0.40784317, b: 0.9960785, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.7803922, g: 0.31764707, b: 0.9686275, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.74509805, g: 0.2509804, b: 0.9490197, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9960785, g: 0.36862746, b: 0.39607847, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9686275, g: 0.28235295, b: 0.3137255, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9490197, g: 0.21568629, b: 0.24705884, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.9294118, g: 0.21960786, b: 0.77647066, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.87843144, g: 0.13725491, b: 0.7176471, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.83921576, g: 0.078431375, b: 0.6745098, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.7411765, g: 0.23137257, b: 0.9803922, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.69411767, g: 0.16470589, b: 0.93725497, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.64705884, g: 0.098039225, b: 0.8980393, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.93725497, g: 0.19215688, b: 0.2392157, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.87843144, g: 0.09411766, b: 0.14509805, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}
+  - name: Blush
+    channelMask:
+    - {r: 0.8470589, g: 0.050980397, b: 0.10196079, a: 1}
+    channelAdditiveMask:
+    - {r: 0, g: 0, b: 0, a: 0}

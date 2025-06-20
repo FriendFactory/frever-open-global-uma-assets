@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51b5f5a8a166140bb25f982e78d57e, type: 3}
+  m_Name: FemaleAgeYoung
+  m_EditorClassIdentifier: 
+  recipeType: DynamicCharacterAvatar
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet:
+  - slot: Hair
+    recipe: hair_Medium_LobBangs_v1_ZEPETO_Recipe
+  - slot: Shirts
+    recipe: shirt_F_Hoodie_OpenCoat_v1_Recipe
+  - slot: Pants
+    recipe: pants_M_Trousers_Sweat_v2_Recipe
+  - slot: Shoes
+    recipe: shoe_Boot_Low_v1_Recipe
+  MeshHideAssets: []
+  RelevanceValue: 5
+  recipeString: '{"packedRecipeType":"DynamicCharacterAvatar","name":"FemaleAgeYoung","race":"Female
+    Base","dna":[{"dnaType":"DynamicUMADna","dnaTypeHash":965488746,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24588},\"bDnaAssetName\":\"LipsDnaAsset\",\"bDnaSettings\":[{\"name\":\"mouthSize\",\"value\":128},{\"name\":\"mouthUpperlipSize\",\"value\":144},{\"name\":\"mouthLowerlipSize\",\"value\":163},{\"name\":\"mouthCorners\",\"value\":100},{\"name\":\"mouthPosition\",\"value\":128},{\"name\":\"mouthCupidbow\",\"value\":255},{\"name\":\"mouthCupidbowAdjust\",\"value\":157},{\"name\":\"mouthTeardrop\",\"value\":173},{\"name\":\"mouthTeardropAdjust\",\"value\":94},{\"name\":\"mouthCornersVertical\",\"value\":233}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":587454143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24574},\"bDnaAssetName\":\"BodyFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"weight\",\"value\":153},{\"name\":\"muscle\",\"value\":128},{\"name\":\"gluteSize\",\"value\":128},{\"name\":\"hipSize\",\"value\":128},{\"name\":\"thighThickness\",\"value\":128},{\"name\":\"calfThickness\",\"value\":128},{\"name\":\"bellySize\",\"value\":128},{\"name\":\"neckSize\",\"value\":128},{\"name\":\"waistSize\",\"value\":201},{\"name\":\"trapeziusSize\",\"value\":128},{\"name\":\"shoulderSize\",\"value\":128},{\"name\":\"armThickness\",\"value\":128},{\"name\":\"forearmThickness\",\"value\":128},{\"name\":\"ribcageSize\",\"value\":152},{\"name\":\"chestSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":0}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1782541532,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24580},\"bDnaAssetName\":\"EyeFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyeSize\",\"value\":128},{\"name\":\"eyePosition\",\"value\":128},{\"name\":\"eyeWidth\",\"value\":131},{\"name\":\"eyeRotate\",\"value\":128},{\"name\":\"eyeSizeWidth\",\"value\":128},{\"name\":\"eyeLowerlid\",\"value\":128},{\"name\":\"eyeUpperlid\",\"value\":65},{\"name\":\"monolid\",\"value\":128},{\"name\":\"creasedlid\",\"value\":128},{\"name\":\"doublelid\",\"value\":128},{\"name\":\"eyeUpperlidInnerVertical\",\"value\":128},{\"name\":\"eyeUpperlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidMidVertical\",\"value\":128},{\"name\":\"eyeUpperlidMidHorizontal\",\"value\":128},{\"name\":\"eyeUpperlidOuterVertical\",\"value\":128},{\"name\":\"eyeUpperlidOuterHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidInnerVertical\",\"value\":128},{\"name\":\"eyeLowerlidInnerHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidMidVertical\",\"value\":128},{\"name\":\"eyeLowerlidMidHorizontal\",\"value\":128},{\"name\":\"eyeLowerlidOuterVertical\",\"value\":200},{\"name\":\"eyeLowerlidOuterHorizontal\",\"value\":153},{\"name\":\"eyeInner\",\"value\":128},{\"name\":\"eyeOuter\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":947784845,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24586},\"bDnaAssetName\":\"FaceDnaAsset\",\"bDnaSettings\":[{\"name\":\"cheekSize\",\"value\":163},{\"name\":\"cheekBoneSize\",\"value\":53},{\"name\":\"earSize\",\"value\":128},{\"name\":\"chinLength\",\"value\":128},{\"name\":\"chinHeigth\",\"value\":120},{\"name\":\"chinWidth\",\"value\":71},{\"name\":\"jawLength\",\"value\":128},{\"name\":\"jawSize\",\"value\":128},{\"name\":\"jawWidth\",\"value\":207},{\"name\":\"jawline\",\"value\":22},{\"name\":\"faceWidth\",\"value\":110},{\"name\":\"faceHeigth\",\"value\":29},{\"name\":\"headSize\",\"value\":122},{\"name\":\"earPosition\",\"value\":128}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":2140988384,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24590},\"bDnaAssetName\":\"NoseDnaAsset\",\"bDnaSettings\":[{\"name\":\"noseSize\",\"value\":147},{\"name\":\"nosePosition\",\"value\":198},{\"name\":\"noseWidth\",\"value\":128},{\"name\":\"noseLength\",\"value\":128},{\"name\":\"noseTipLength\",\"value\":128},{\"name\":\"noseTipSize\",\"value\":128},{\"name\":\"noseWingWidth\",\"value\":227},{\"name\":\"noseWingPosition\",\"value\":128},{\"name\":\"noseTipRotate\",\"value\":178}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":1147519000,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24578},\"bDnaAssetName\":\"EyebrowDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyebrowSize\",\"value\":128},{\"name\":\"eyebrowThickness\",\"value\":128},{\"name\":\"eyebrowRotate\",\"value\":151},{\"name\":\"eyebrowPosition\",\"value\":108}]}"},{"dnaType":"DynamicUMADna","dnaTypeHash":296061143,"packedDna":"{\"bDnaAsset\":{\"instanceID\":24582},\"bDnaAssetName\":\"EyelashesFemaleDnaAsset\",\"bDnaSettings\":[{\"name\":\"eyelashSize\",\"value\":128}]}"}],"characterColors":[{"name":"Skin","colors":[221,171,133,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Hair","colors":[90,55,36,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"Eyes","colors":[219,123,30,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"wardrobeSet":[{"slot":"Hair","recipe":"hair_Medium_LobBangs_v1_ZEPETO_Recipe"},{"slot":"Shirts","recipe":"shirt_F_Hoodie_OpenCoat_v1_Recipe"},{"slot":"Pants","recipe":"pants_M_Trousers_Sweat_v2_Recipe"},{"slot":"Shoes","recipe":"shoe_Boot_Low_v1_Recipe"}],"raceAnimatorController":""}'

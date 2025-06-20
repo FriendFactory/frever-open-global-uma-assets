@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfd784ce7764d48d5b38e2ae8592870a, type: 3}
+  m_Name: FaceShapeHeart
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 21300000, guid: 28f2917353630ce4fa307eeceadcd26d, type: 3}
+  _presetType: {fileID: 11400000, guid: 32d7501885513bc4ebf346a97c98019e, type: 2}
+  b_raceDependent: 0
+  _presets:
+  - name: cheekSize
+    value: 0.419
+  - name: cheekBoneSize
+    value: 0.723
+  - name: earSize
+    value: 0.5
+  - name: chinLength
+    value: 0.5
+  - name: chinHeigth
+    value: 0.418
+  - name: chinWidth
+    value: 0
+  - name: jawLength
+    value: 0.595
+  - name: jawSize
+    value: 0.5
+  - name: jawWidth
+    value: 0.37
+  - name: jawline
+    value: 0.756
+  - name: faceWidth
+    value: 0.306
+  - name: faceHeigth
+    value: 0.305
+  - name: headSize
+    value: 0.5
+  - name: earPosition
+    value: 0.5
+  - name: cheekSize
+    value: 0.5
+  - name: cheekBoneSize
+    value: 0.5
+  - name: earSize
+    value: 0.5
+  - name: chinLength
+    value: 0.5
+  - name: chinHeigth
+    value: 0.5
+  - name: chinWidth
+    value: 0.5
+  - name: jawLength
+    value: 0.5
+  - name: jawSize
+    value: 0.5
+  - name: jawWidth
+    value: 0.5
+  - name: jawline
+    value: 0.5
+  - name: faceWidth
+    value: 0.5
+  - name: faceHeigth
+    value: 0.5
+  - name: headSize
+    value: 0.5
+  - name: earPosition
+    value: 0.5

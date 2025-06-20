@@ -1,0 +1,8 @@
+{
+  "name": "com.friendfactory.globalumaassets",
+  "displayName": "Global UMA assets",
+  "version": "0.1.2",
+  "unity": "2022.3",
+  "description": "This package contains assets for building Global UMA bundles.",
+  "type": "submodule"
+}

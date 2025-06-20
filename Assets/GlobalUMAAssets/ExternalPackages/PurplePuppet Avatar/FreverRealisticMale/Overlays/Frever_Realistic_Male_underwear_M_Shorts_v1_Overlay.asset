@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: Frever_Realistic_Male_underwear_M_Shorts_v1_Overlay
+  m_EditorClassIdentifier: 
+  overlayName: Frever_Realistic_Male_underwear_M_Shorts_v1_Overlay
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 0}
+  textureList:
+  - {fileID: 2800000, guid: b28125b09b92e384d804ea11a32d07a8, type: 3}
+  - {fileID: 2800000, guid: bab97e33512a6ca489b0f2509525cf45, type: 3}
+  - {fileID: 2800000, guid: 4b7738f0158e88744873d416439e6291, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: c1e9ed01fb6b242fcb00c326b5627a66, type: 2}
+  OcclusionEntries: []

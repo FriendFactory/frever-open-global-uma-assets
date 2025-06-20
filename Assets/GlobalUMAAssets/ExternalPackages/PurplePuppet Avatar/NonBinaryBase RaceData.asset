@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: NonBinaryBase RaceData
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: c51ba2d0e52809f41830e78f0ce634e3, type: 2}
+  wardrobeSlots:
+  - None
+  - Hair
+  - Outfit
+  - Shirts
+  - Skirts
+  - Pants
+  - Dress
+  - Shoes
+  - Socks
+  - Face/Wrinkles
+  - Eyebrows
+  - Eyes
+  - Glasses
+  - Accessory/Scarf
+  - Accessory/Purse
+  - Accessory/Glove
+  - Accessory/Watch
+  - Accessory/Other
+  - EyeMakeup/Lashes
+  - Jewelry/Earrings
+  - Jewelry/Necklace
+  - Jewelry/Bracelet
+  - Jewelry/Rings
+  - Jewelry/Piercing
+  - Jewelry/Anklet
+  - Face/Beautymark
+  - Face/Scars
+  - Face/Tattoo
+  - Face/Other
+  - Body/Tattoo
+  - Body/Limbs
+  - Body/Nails
+  - Headwear/Hats
+  - Headwear/Headband
+  - Headwear/Masks
+  - Headwear/Other
+  - FaceMakeup/FacePaint
+  - FaceMakeup/Contour
+  - FaceMakeup/Blush
+  - FaceMakeup/Highlight
+  - Face/Freckles
+  - LipMakeup/Lipstick
+  - LipMakeup/Gloss
+  - FacialHair/Beard
+  - FacialHair/Mustache
+  - FacialHair/Patch
+  - EyeMakeup/Eyeshadow
+  - EyeMakeup/Eyeliner
+  - FaceMakeup/Deco
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData:
+    - ccRace: Male Base
+      ccSettings:
+      - raceSlot: female_body
+        compatibleRaceSlot: male_body
+        overlaysMatch: 1
+      - raceSlot: female_head
+        compatibleRaceSlot: male_head
+        overlaysMatch: 1
+      - raceSlot: female_eyes
+        compatibleRaceSlot: male_eyes
+        overlaysMatch: 1
+      - raceSlot: female_brows
+        compatibleRaceSlot: male_brows
+        overlaysMatch: 1
+      - raceSlot: female_lashes
+        compatibleRaceSlot: male_lashes
+        overlaysMatch: 1
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs: []
+}
+  raceName: Non Binary Base
+  _dnaConverterListLegacy: []
+  _dnaConverterList:
+    _converters:
+    - {fileID: 11400000, guid: ce7a5fd869d61034bba8a38eef9eaf86, type: 2}
+    - {fileID: 11400000, guid: f2ac272c14554ec419d8c632ede57644, type: 2}
+    - {fileID: 11400000, guid: 2edf4e222cae0e24cbdd46b75bb0c4dc, type: 2}
+    - {fileID: 11400000, guid: de4372bd42dec074697407f60114ff97, type: 2}
+    - {fileID: 11400000, guid: ad5f39b693453da47a8633e63a002c47, type: 2}
+    - {fileID: 11400000, guid: cc498ef4a4dd7c3409e82226dff5c34d, type: 2}
+    - {fileID: 11400000, guid: 9adb59d3f788c6748a07c0b172a07b16, type: 2}
+  TPose: {fileID: 11400000, guid: 5bd599671306dbe48ad31cde71e12810, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 0}
+  dnaRanges: []
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

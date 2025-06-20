@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: sims_Eyeshadow_v2_Overlay
+  m_EditorClassIdentifier: 
+  overlayName: sims_Eyeshadow_v2_Overlay
+  overlayType: 0
+  rect:
+    x: 770
+    y: 1187
+    width: 512
+    height: 256
+  alphaMask: {fileID: 0}
+  textureList:
+  - {fileID: 2800000, guid: 8b3253b162a8e84408b9b72cd02019d6, type: 3}
+  - {fileID: 2800000, guid: b461a654ab48d4b598a2a4bcefd50c44, type: 3}
+  - {fileID: 2800000, guid: 95d0b68400702bd4685aa1d6df771004, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: c1e9ed01fb6b242fcb00c326b5627a66, type: 2}
+  OcclusionEntries: []

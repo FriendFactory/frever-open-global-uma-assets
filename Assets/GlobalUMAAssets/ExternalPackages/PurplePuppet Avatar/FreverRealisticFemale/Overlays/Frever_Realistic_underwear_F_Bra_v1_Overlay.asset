@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: Frever_Realistic_underwear_F_Bra_v1_Overlay
+  m_EditorClassIdentifier: 
+  overlayName: Frever_Realistic_underwear_F_Bra_v1_Overlay
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 0}
+  textureList:
+  - {fileID: 2800000, guid: f7793fc06b7b082438e86d35028d22eb, type: 3}
+  - {fileID: 2800000, guid: a2d9b5f5cad5c3249805f5bc30c5f54f, type: 3}
+  - {fileID: 2800000, guid: 08b73ac7c3f99fc48b57dc7b52a32ca5, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: c1e9ed01fb6b242fcb00c326b5627a66, type: 2}
+  OcclusionEntries: []
